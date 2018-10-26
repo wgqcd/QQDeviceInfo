@@ -25,8 +25,6 @@
 		8B4094723D6267824FF3C43B /* Pods_QQDeviceInfo_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F87D4A36E48048A05B37CC21 /* Pods_QQDeviceInfo_Example.framework */; };
 		9668F5C12181E00A00C0E4BD /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9668F5BD2181E00A00C0E4BD /* ReplaceMe.m */; };
 		9668F5C52181E02D00C0E4BD /* QQDeviceInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9668F5C42181E02D00C0E4BD /* QQDeviceInfo.m */; };
-		9668F5C721829D8700C0E4BD /* libresolv.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9668F5C621829D8700C0E4BD /* libresolv.9.tbd */; };
-		9668F5C921829D9C00C0E4BD /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9668F5C821829D9C00C0E4BD /* libresolv.tbd */; };
 		9668F5CB21829DDA00C0E4BD /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9668F5CA21829DDA00C0E4BD /* MobileCoreServices.framework */; };
 		9668F5CF2182FD9D00C0E4BD /* 首页等待.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9668F5CE2182FD9D00C0E4BD /* 首页等待.gif */; };
 		F8978CD80995CEA6510C528F /* Pods_QQDeviceInfo_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CCDAA51E85B0EBC2C205280 /* Pods_QQDeviceInfo_Tests.framework */; };
@@ -90,8 +88,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9668F5CB21829DDA00C0E4BD /* MobileCoreServices.framework in Frameworks */,
-				9668F5C921829D9C00C0E4BD /* libresolv.tbd in Frameworks */,
-				9668F5C721829D8700C0E4BD /* libresolv.9.tbd in Frameworks */,
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
