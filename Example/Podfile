@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'QQDeviceInfo_Example' do
+  pod 'QQDeviceInfo', :path => '../'
+ 
+  target 'QQDeviceInfo_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+    pod 'FBSnapshotTestCase'
+  end
+end
